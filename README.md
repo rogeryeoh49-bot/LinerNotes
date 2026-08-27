@@ -1,3 +1,16 @@
+> [!WARNING]
+> **This repository does not contain the production backend.**
+>
+> The public version of LinerNotes uses a **local JSON / localhost-based data source** for development and demonstration.
+>
+> The production version relies on **CloudKit and other third-party services** to provide music metadata, sample information, and related content. These services, databases, and production configurations are not included in this repository.
+>
+> As a result, cloning this repository will **not provide the same backend environment as the production version**. You will need to configure your own local data source and services if you want to run the project.
+>
+> I will periodically publish updated datasets and configuration instructions to keep the public repository usable as the project evolves.
+>
+> **The purpose of this repository is to showcase the project, its architecture, UI, and development process—not to provide a complete production backend.**
+
 ## LinerNotes
 
 > A modern music discovery app for exploring samples, production details, and the creative connections behind your favorite songs.
