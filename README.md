@@ -1,3 +1,11 @@
+## LinerNotes
+
+> A modern music discovery app for exploring samples, production details, and the creative connections behind your favorite songs.
+
+LinerNotes is a SwiftUI-based music application designed to make the hidden details behind music easier to discover.
+
+Music is rarely created in isolation. A song can contain a sample from decades ago, reference another artist's work, or use production techniques that connect it to an entirely different record. LinerNotes is designed around these connections, bringing music discovery, metadata, samples, and production information into one focused experience.
+
 > [!WARNING]
 > **This repository does not contain the production backend.**
 >
@@ -7,17 +15,9 @@
 >
 > As a result, cloning this repository will **not provide the same backend environment as the production version**. You will need to configure your own local data source and services if you want to run the project.
 >
-> I will periodically publish updated datasets and configuration instructions to keep the public repository usable as the project evolves.
+> I will periodically publish updated datasets and configuration instructions (json files) base on my music taste or any recommendation to keep the public repository usable as the project evolves. **Have an idea or suggestion? I'd love to hear it.**
 >
 > **The purpose of this repository is to showcase the project, its architecture, UI, and development process—not to provide a complete production backend.**
-
-## LinerNotes
-
-> A modern music discovery app for exploring samples, production details, and the creative connections behind your favorite songs.
-
-LinerNotes is a SwiftUI-based music application designed to make the hidden details behind music easier to discover.
-
-Music is rarely created in isolation. A song can contain a sample from decades ago, reference another artist's work, or use production techniques that connect it to an entirely different record. LinerNotes is designed around these connections, bringing music discovery, metadata, samples, and production information into one focused experience.
 
 ## Why LinerNotes?
 
