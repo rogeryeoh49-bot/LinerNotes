@@ -15,9 +15,11 @@ Music is rarely created in isolation. A song can contain a sample from decades a
 >
 > As a result, cloning this repository will **not provide the same backend environment as the production version**. You will need to configure your own local data source and services if you want to run the project.
 >
-> I will periodically publish updated datasets and configuration instructions (json files) base on my music taste or any recommendation to keep the public repository usable as the project evolves. **Have an idea or suggestion? I'd love to hear it.**
+> I will periodically publish updated datasets and configuration instructions (json files) based on my music taste or any recommendation to keep the public repository usable as the project evolves. 
 >
 > **The purpose of this repository is to showcase the project, its architecture, UI, and development process—not to provide a complete production backend.**
+>
+> **Have an idea or suggestion? I'd love to hear it.**
 
 ## Why LinerNotes?
 
