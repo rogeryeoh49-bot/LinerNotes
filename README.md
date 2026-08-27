@@ -373,8 +373,8 @@ LinerNotes is an independent software project exploring the intersection of:
 - Software engineering
 - Native Apple-platform design
 
-<p align="center">
-  <a href="https://rogeryeoh,dpdns.org">
+<p align="left">
+  <a href="https://rogeryeoh.dpdns.org">
     <strong>🌐 know more about me if you wish →</strong>
   </a>
 </p>
