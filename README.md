@@ -237,7 +237,11 @@ The repository represents the current development state of the project rather th
 
 **🚧 In Development**
 
-LinerNotes is currently under active development.
+I cannot signed up for the paid apple developer account because of my special situation, so in short times I cannot upload it to the App Store.
+
+**There will be someday, I think.**
+
+BUT LinerNotes is currently under active development.
 
 Planned improvements may include:
 
